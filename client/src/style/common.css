@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+  }
+.hover{
+}
+
+.hover:hover{
+    
+    cursor:pointer;
+}
+
+.bold{
+    font-weight:bold;
+}
+
+body{
+    background:rgb(135, 206, 235,0.3);
+
+}
+
+.info-comment{
+    color:gray;
+    font-size:18px;
+
+}
+
+.wrapper {
+    width:100%;
+    height:auto;
+}
+
+.inner{
+    width:100%;
+    height:auto;
+}
+
+.list{
+    list-style: none;
+    margin:0;
+    padding:0;
+}
+
+.item{
+    margin:0;
+    padding:0;
+}
+
+
